@@ -1,0 +1,151 @@
+/** My style**/
+p {
+	line-height: .5;
+}
+.container {
+	width: 750px;
+	margin: auto;
+	font-size: 16px;
+	font-family: Trebuchet MS;
+}
+.head {
+	min-height: 60px;
+	overflow: hidden;
+}
+.head-left{
+	overflow: hidden;
+	float: left;
+}
+.logo {
+	height: 100px;
+	float: left;
+}
+
+.logo img{
+	width: 150px;
+	height: 77px;
+}
+
+.company-name {
+	overflow: hidden;
+}
+
+.company-name h1{
+	font-family: arial;
+	font-size:30px;
+	color: #546DAD;
+	font-weight: normal;
+}
+
+.head-right {
+	overflow: hidden;
+}
+
+.head-right h1{
+	font-family: arial;
+	font-size:32px;
+	color: #71A7D7;
+	text-transform: uppercase;
+	text-align: right;
+}
+
+.bill-statement {
+	overflow: hidden;
+}
+
+.bill h1{
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+}
+.bill{
+	float: left;
+}
+
+.statement{
+	overflow: hidden;
+	float: right;
+}
+.statement input[type='text']{
+	width: 120px;
+}
+
+.statement table tr td{
+	font-weight: bold;
+}
+
+.remittance-account {
+overflow: hidden;
+}
+
+.remittence {
+	float: left;
+}
+
+.remittance-name{
+	float: left;
+	width: 60%;
+	margin-right: 2%;
+}
+
+.account-name{
+	overflow: hidden;
+	width: 38%;
+}
+
+.remittance-name h1{
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+	background: #d4d4d4;
+	padding: 5px 20px;
+}
+
+
+.account-name h1{
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+	background: #AEC1F3;
+	padding: 5px 20px;
+}
+.account {
+	overflow: hidden;
+	float: right;
+	padding-left: 20px;
+}
+
+.account input[type='text']{
+	width: 70px;
+}
+
+.account h2{
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+
+
+.mainBody h2{
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.mainBody table{
+	border-collapse: collapse;
+}
+
+.footer {
+	padding-top: 10px;
+}
+.footer h2{
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.left-padding {
+	padding-left: 40px;
+}

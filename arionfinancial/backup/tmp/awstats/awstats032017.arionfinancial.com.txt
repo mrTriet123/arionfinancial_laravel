@@ -1,0 +1,503 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+# Last config file used to build this data file was /home/arianleasing/tmp/awstats/awstats.arionfinancial.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2698                
+POS_VISITOR 10990               
+POS_DAY 13867               
+POS_DOMAIN 3387                
+POS_LOGIN 3795                
+POS_ROBOT 3950                
+POS_WORMS 4337                
+POS_EMAILSENDER 4468                
+POS_EMAILRECEIVER 4611                
+POS_SESSION 14293               
+POS_SIDER 14490               
+POS_FILETYPES 4746                
+POS_DOWNLOADS 4975                
+POS_OS 5023                
+POS_BROWSER 5272                
+POS_SCREENSIZE 5926                
+POS_UNKNOWNREFERER 6000                
+POS_UNKNOWNREFERERBROWSER 6350                
+POS_ORIGIN 6534                
+POS_SEREFERRALS 6671                
+POS_PAGEREFS 6835                
+POS_SEARCHWORDS 7016                
+POS_KEYWORDS 7177                
+POS_MISC 2361                
+POS_ERRORS 7245                
+POS_CLUSTER 3651                
+POS_SIDER_404 7371                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170401043359 11 2365 10378240218909
+FirstTime 20170316140624
+LastTime 20170331185810
+LastUpdate 20170401053158 11 0 10 0 0
+TotalVisits 114                 
+TotalUnique 70                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 73                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 30 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 21 27 398744 11 42 14546
+1 12 13 132411 21 27 29845
+2 4 4 14389 0 2 24
+3 7 11 249716 4 6 2190
+4 2 2 5546 6 7 3568
+5 0 0 0 1 7 117199
+6 3 3 9982 2 4 777
+7 4 4 17636 7 14 7361
+8 15 67 959634 9 19 206699
+9 9 15 371190 5 11 23022
+10 8 9 44310 3 15 242784
+11 4 4 11045 6 12 103631
+12 11 102 735912 40 46 19143
+13 17 18 138251 14 41 30611
+14 9 10 313515 3 7 5018
+15 1 1 4409 5 6 2292
+16 5 5 15460 2 3 777
+17 2 2 8866 0 0 0
+18 6 6 19893 0 0 0
+19 4 4 7774 1 3 1165
+20 6 12 809934 0 0 0
+21 30 82 671876 12 15 6439
+22 17 26 687170 11 23 22035
+23 16 16 198567 9 34 12990
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 92 251 3872732
+pk 70 129 1092930
+kr 21 21 92589
+cn 12 16 271834
+ca 4 4 14412
+ua 3 3 3348
+ru 3 5 121513
+de 2 4 118215
+jp 1 3 117104
+nl 1 1 1113
+es 1 1 1114
+sg 1 3 117102
+pa 1 1 1113
+gb 1 1 1111
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 30 461263 20170330080410 6
+spider 19 141483 20170328220453 3
+bot[\s_+:,\.\;\/\\-] 17 11559 20170328033440 9
+crawl 9 3415 20170322145317 6
+unknown 7 168 20170324073541 7
+no_user_agent 2 5547 20170320090944 0
+bingpreview 2 115988 20170321055343 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+Unknown 85 223302 0 0
+js 145 4061282 0 0
+html 118 344128 0 0
+woff 4 294077 0 0
+map 2 160093 0 0
+css 75 503180 0 0
+png 4 22881 0 0
+woff2 4 179847 0 0
+jpg 6 37440 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+linux 3 3
+linuxandroid 6 4
+macosx9 3 2
+macosx5 1 1
+winnt 132 74
+Unknown 9 8
+winxp 28 24
+macosx 172 30
+win2003 2 2
+ios_iphone 5 3
+winlong 19 19
+win7 56 38
+java 1 1
+win8.1 2 2
+win8 4 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 34
+chrome11.0.696.71 6 6
+netscape5.0 2 2
+chrome40.0.2214.115 2 2
+Unknown 3 3
+chrome31.0.1650.57 3 3
+firefox51.0 1 1
+chrome34.0.1847.137 2 2
+firefox49.0 1 1
+safari7.1.2 2 1
+chrome54.0.2840.99 1 1
+firefox16.0 1 1
+mozilla 5 4
+android 2 2
+msie8.0 64 48
+safari6.0 2 2
+chrome44.0.2403.125 1 1
+firefox3.6.28 1 1
+chrome10.0.648.204 4 4
+msie10.0 3 1
+firefox35.0 2 2
+safari10.0.3 171 29
+opera12.17 1 1
+wget 1 1
+safari10.0 3 1
+chrome21.0.1180.89 4 4
+chrome56.0.2924.87 135 75
+firefox33.0 4 4
+firefox29.0 2 2
+firefox44.0 1 1
+msie7.0 2 2
+chrome51.0.2704.63 2 1
+safari5.0.4 6 2
+firefox3.6.13 1 1
+chrome51.0.2704.106 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20170321144520
+WhatsApp/2.17.107_A 20170326090533
+python-requests/2.13.0 20170325184504
+Mozilla/5.0_(compatible;_ips-agent) 20170322100137
+Mozilla/5.0_Firefox/35.0 20170318214813
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.13.0 20170325184504
+WhatsApp/2.17.107_A 20170326090533
+Java/1.6.0_26 20170330005559
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 108 114
+From1 5 5
+From2 5 5
+From3 2 2
+From4 93 317
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+bing 4 4
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://w3data.co/profile.php 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 27 54641
+301 9 2170
+302 24 5208
+404 165 50674
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 80
+/struts-2.3.24.1/login.action 1 -
+/admin 1 -
+/public/14906843840.png 1 http://arionfinancial.com/Profile
+/login.action 1 -
+/browse/browse.action 1 -
+/struts/showcase.action 1 -
+/build/css/custom.min.css 12 http://arionfinancial.com/Profile
+/blog 3 http://arionfinancial.com/blog/
+/server.php 1 -
+/public/uploads14906843840.png 3 http://arionfinancial.com/Profile
+/struts2-core-2.3.8/login.action 1 -
+/struts-2.5.10.1-src/login.action 1 -
+/robots.txt 11 -
+/Struts2XMLHelloWorld/User/home.action 1 -
+/home/arianleasing/public/uploads/14906839430.jpg 1 http://arionfinancial.com/Profile
+/struts-2.3.20.1/login.action 1 -
+/Public/uploads/14906792630.jpg 1 -
+/struts2_2.3.15.1-showcase/showcase.action 1 -
+/public/uploads/14906792630.jpg 2 -
+/struts-2.5.2/login.action 1 -
+/tg.php 2 -
+/portal/client/cms/viewcmspage.action 1 -
+/123.png 1 http://arionfinancial.com/Profile
+/struts-2.5-BETA1/login.action 1 -
+/home/arianleasing/public/14906792630.jpg 1 http://arionfinancial.com/Profile
+/struts2/login.action 1 -
+/ 1 -
+/struts-2.3.24.3/login.action 1 -
+/struts-2.5.10/login.action 1 -
+/home/arianleasing/public/uploads14906792630.jpg 2 http://arionfinancial.com/Profile
+/home/arianleasing/public/Profile 3 http://arionfinancial.com/Profile
+/Profile 1 http://arionfinancial.com/Profile
+/web/Index.action 1 -
+/struts-2.3.24/login.action 1 -
+/js/mage/cookies.js 1 -
+/frame/first.action 1 -
+/home/arianleasing/public/uploads/14906835830.jpg 1 http://arionfinancial.com/Profile
+/home/arianleasing/public/uploads/14906843840.png 17 http://arionfinancial.com/Profile
+/js/app.js 7 http://arionfinancial.com/
+/home/arianleasing/public/uploads/uploads/14906792630.jpg 2 http://arionfinancial.com/Profile
+/administrator/index.php 2 -
+/home/login.action 1 -
+/build/js/custom.min.js 12 http://arionfinancial.com/Profile
+//public/uploads/14906843840.png 1 -
+/article/article.action 1 -
+/home/arianleasing/public/uploads/14906842260.jpg 1 http://arionfinancial.com/Profile
+/struts-2.3.20/login.action 1 -
+/page.php 2 -
+/struts2-showcase/showcase.action 1 -
+/struts2/showcase.action 1 -
+/img.php 2 -
+/js 1 -
+/notFound.action 1 -
+/struts2-showcase/login.action 1 -
+/Public/Uploads/14906792630.jpg 1 -
+/struts-2.3.20.3/login.action 1 -
+/Profilekjllkjih 2 -
+/public/uploads/14906835830.jpg 2 http://arionfinancial.com/Profile
+/Contracts 3 http://arionfinancial.com/Profile
+/vportal/web/gateway/home.action 1 -
+/Payments/index.html 1 http://arionfinancial.com/Payments/2
+/public/uploads/14906843840.png 5 http://arionfinancial.com/Profile
+/home/arianleasing/public/uploads/app/uploads/14906835830.jpg 1 http://arionfinancial.com/Profile
+/132.png 1 http://arionfinancial.com/Profile
+/struts/login.action 1 -
+/index.html 3 (null)
+/mobile 1 -
+/struts-2.3.28/login.action 1 -
+/URL('public/uploads').$User['Profile'] 1 http://arionfinancial.com/Profile
+/home/arianleasing/public/uploads/14906886600.png 3 http://arionfinancial.com/Profile
+/arianleasing/public/uploads/14906835830.jpg 1 http://arionfinancial.com/Profile
+/Add-Contracts 2 http://arionfinancial.com/Profile
+/home/arianleasing/public/uploads/14906792630.jpg 2 http://arionfinancial.com/Profile
+/search_caf.php 4 -
+/privacy_policy.php 2 -
+/user/registrationPage.action 1 -
+/admin/agent/default.action 1 -
+/wp-login.php 1 -
+/showcase.action 1 -
+/struts-2.5-BETA3/login.action 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 73
+182.186.58.78 47 99 784687 20170327235945
+72.193.172.76 29 171 1402198 20170328130902
+103.59.156.16 21 21 92589 20170331185810
+182.186.36.99 13 13 35329 20170328005644
+104.238.248.15 7 7 31031 20170322093418
+182.186.20.233 6 6 16258 20170328012952
+50.117.89.222 6 6 26598 20170322174243
+204.44.65.210 4 4 17732 20170319062754
+148.62.14.156 4 4 4464 20170329213044
+67.76.186.156 3 4 23084 20170331105444
+69.58.178.59 2 2 7999 20170322100137
+162.242.156.106 2 2 2230 20170319002524
+162.243.69.215 2 2 76305 20170327211133
+104.148.118.51 2 2 8866 20170317042725
+188.120.255.100 2 2 4409 20170324120038
+218.241.108.76 2 2 8842 20170319230815
+124.206.180.130 2 2 8818 20170318214813
+104.156.230.231 2 2 8818 20170328074805
+182.186.59.127 2 7 138442 20170326220840
+64.74.215.88 2 6 234124 20170320001309
+159.203.81.93 2 2 27108 20170327211144
+69.4.39.174 2 3 286697 20170321144520
+38.100.21.172 2 2 7999 20170316140627
+2.137.56.104 1 1 1114 20170325184504
+144.217.80.113 1 1 1114 20170324030623
+23.106.75.184 1 1 1115 20170320191218
+153.217.162.72 1 3 117104 20170320204835
+64.233.173.134 1 2 20860 20170326090509
+140.205.201.5 1 3 117105 20170322003742
+74.85.214.107 1 1 4409 20170328182630
+64.74.215.131 1 2 97354 20170322131528
+73.172.246.7 1 3 117103 20170324083945
+54.160.185.103 1 1 1112 20170325203528
+88.99.68.199 1 1 1111 20170318141450
+198.240.72.253 1 1 4409 20170319141210
+198.240.77.218 1 1 4409 20170323100924
+206.217.143.132 1 1 0 20170323202749
+118.201.32.210 1 3 117102 20170321204911
+140.205.201.7 1 1 1115 20170326033259
+104.209.188.207 1 1 4409 20170326090341
+91.210.147.90 1 1 1115 20170327093100
+64.233.173.133 0 1 96240 
+54.90.157.18 1 1 1114 20170321111457
+206.41.181.186 1 1 4409 20170321005639
+179.43.133.114 1 1 1113 20170328010041
+91.210.146.226 1 1 1117 20170324161811
+37.146.181.245 1 3 117104 20170321031224
+103.228.156.131 1 3 117103 20170326090645
+140.224.95.83 1 1 4433 20170319020049
+199.30.228.144 1 1 1114 20170317020109
+103.255.5.61 1 1 1111 20170326090533
+62.212.73.49 1 1 1113 20170326044602
+140.205.201.18 1 1 1114 20170322003739
+140.205.201.6 1 3 117108 20170326033259
+64.74.215.15 1 2 97356 20170321011013
+167.114.233.118 1 1 4433 20170317175453
+27.151.73.78 1 1 4433 20170322123149
+110.88.47.225 1 1 4433 20170321142710
+86.56.109.154 1 3 117100 20170318223441
+70.35.196.91 1 1 4409 20170330121802
+104.237.130.93 1 1 4409 20170328070544
+45.35.167.83 1 1 1120 20170316222652
+110.88.45.81 1 1 4433 20170317191943
+176.9.50.43 1 1 1115 20170320201532
+158.69.229.134 1 1 4433 20170317130340
+104.198.7.244 1 1 1115 20170328194441
+158.69.25.178 1 1 1113 20170330113622
+91.210.145.43 1 1 1116 20170318065226
+45.35.167.121 0 1 96240 
+207.231.238.65 1 1 4433 20170330005559
+70.42.131.170 0 4 1138136 
+40.78.146.128 1 1 4409 20170326090509
+66.249.93.215 1 1 1114 20170328130028
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20170316 3 4 105359 2
+20170317 14 14 58719 13
+20170318 11 14 439253 11
+20170319 10 10 37598 9
+20170320 19 75 1195989 8
+20170321 9 16 917158 8
+20170322 11 14 243515 10
+20170323 4 4 13227 4
+20170324 6 9 412686 5
+20170325 4 4 11044 4
+20170326 15 28 641318 14
+20170327 51 103 880135 5
+20170328 44 135 817325 11
+20170329 3 3 6638 3
+20170330 4 4 14364 4
+20170331 5 6 31902 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 2
+0s-30s 106
+5mn-15mn 1
+30mn-1h 1
+30s-2mn 3
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 118 344128 109 101
+/Profile 55 145856 2 4
+/Users 12 27214 0 1
+/Add-User 6 14466 0 0
+/password/reset 4 9208 0 4
+/vendors/font-awesome/fonts/fontawesome-webfont.woff 3 270939 0 0
+/cpanel 3 14319 1 2
+/Contracts/5 2 4699 0 0
+/Payments/2 2 4997 0 0
+/vendors/font-awesome/fonts/fontawesome-webfont.woff2 2 143789 1 1
+/vendors/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 2 36058 1 1
+/Payment/2 1 2543 0 0
+/vendors/parsleyjs/dist/parsley.min.js.map 1 58538 0 0
+/vendors/bootstrap/dist/fonts/glyphicons-halflings-regular.woff 1 23138 0 0
+/vendors/bootstrap/dist/css/bootstrap.min.css.map 1 101555 0 0
+END_SIDER

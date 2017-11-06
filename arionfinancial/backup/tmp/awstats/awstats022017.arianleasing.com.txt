@@ -1,0 +1,378 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home/arianleasing/tmp/awstats/awstats.arianleasing.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2696                
+POS_VISITOR 7639                
+POS_DAY 9258                
+POS_DOMAIN 3326                
+POS_LOGIN 3648                
+POS_ROBOT 3803                
+POS_WORMS 4179                
+POS_EMAILSENDER 4310                
+POS_EMAILRECEIVER 4453                
+POS_SESSION 9523                
+POS_SIDER 9719                
+POS_FILETYPES 4588                
+POS_DOWNLOADS 4819                
+POS_OS 4867                
+POS_BROWSER 5112                
+POS_SCREENSIZE 5619                
+POS_UNKNOWNREFERER 5693                
+POS_UNKNOWNREFERERBROWSER 5990                
+POS_ORIGIN 6164                
+POS_SEREFERRALS 6300                
+POS_PAGEREFS 6444                
+POS_SEARCHWORDS 6592                
+POS_KEYWORDS 6744                
+POS_MISC 2359                
+POS_ERRORS 6803                
+POS_CLUSTER 3504                
+POS_SIDER_404 6938                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301002531 77 12833 5082869712553
+FirstTime 20170220075742
+LastTime 20170228220232
+LastUpdate 20170301053001 77 0 76 0 0
+TotalVisits 64                  
+TotalUnique 39                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 40                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 28 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 2230 0 0 0
+1 4 4 12724 0 0 0
+2 2 2 6386 0 0 0
+3 2 2 2908 0 0 0
+4 1 1 4397 0 0 0
+5 0 0 0 0 0 0
+6 3 3 9089 0 1 24
+7 1 1 945 0 1 0
+8 2 2 5514 0 0 0
+9 13 63 540939 2 3 389
+10 26 130 1059891 20 24 7766
+11 23 72 734748 11 12 11337
+12 2 2 8794 0 0 0
+13 1 1 4397 0 1 0
+14 95 436 3392029 19 49 106774
+15 7 26 470400 6 23 178024
+16 5 7 417313 4 5 67298
+17 4 4 4448 4 23 156968
+18 1 1 4397 3 5 13982
+19 3 3 9910 0 0 0
+20 9 13 254042 1 2 4399
+21 5 9 244114 1 4 4471
+22 4 4 7763 1 16 17978
+23 5 7 122237 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 194 765 6699433
+kr 11 11 48373
+cn 8 10 144657
+fr 2 4 410860
+ca 2 2 6386
+ua 1 1 4397
+ro 1 1 4397
+nl 1 1 1112
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 11 141293 20170228114232 3
+crawl 9 3407 20170227172901 6
+unknown 7 168 20170228223720 7
+bot[\s_+:,\.\;\/\\-] 6 136895 20170224163244 2
+no_user_agent 5 22089 20170223151454 0
+spider 1 1114 20170228224046 0
+curl 1 1114 20170221182549 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff 15 817295 0 0
+map 4 320186 0 0
+jpg 9 56160 0 0
+Unknown 99 232702 0 0
+woff2 8 359692 0 0
+png 12 38135 0 0
+css 184 881089 0 0
+js 370 4421209 0 0
+html 94 193147 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx7 1 1
+Unknown 10 9
+winnt 2 2
+macosx8 1 1
+winlong 6 6
+macosx5 2 2
+winunknown 1 1
+linuxandroid 2 2
+winxp 14 14
+ios_iphone 7 5
+win7 8 8
+macosx 447 88
+win8.1 274 71
+linux 20 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+firefox48.0 1 1
+safari10.0 4 4
+chrome49.0.2623.75 3 3
+opera36.0.2130.32 1 1
+firefox21.0 4 2
+safari10.0.3 443 84
+firefox0.10.1 3 3
+mozilla 9 8
+firefox35.0 3 3
+chrome21.0.1180.89 1 1
+chrome56.0.2924.87 272 69
+firefox14.0.1 1 1
+chrome27.0.1453 3 1
+firefox1.0 1 1
+firefox3.0.3 1 1
+firefox30.0 1 1
+safari 9 3
+chrome27.0.1453.90 1 1
+msie10.0 1 1
+chrome34.0.1847.137 2 2
+firefox3.6.13 1 1
+msie8.0 18 18
+chrome11.0.696.71 4 4
+Unknown 3 3
+safari6.0 3 1
+android 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/4.0_(compatible;_http://search.thunderstone.com/texis/websearch/about.html) 20170226150928
+Mozilla/5.0_(compatible;_ips-agent) 20170226065105
+Ruby 20170221160806
+Mozilla/5.0_Firefox/35.0 20170223083228
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.7.0_CPython/2.7.6_Windows/2008ServerR2 20170220235943
+Ruby 20170221160806
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 90 91
+From1 1 1
+From2 0 0
+From3 0 0
+From4 129 703
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 58 233729
+500 3 9907
+405 1 12357
+302 34 6626
+301 3 711
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/login 3 http://arianleasing.com/
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+/User/images/user.png 4 http://arianleasing.com/User/1
+/admin.php 3 -
+/blog/robots.txt 1 -
+/Account/images/user.png 6 http://arianleasing.com/Account/3
+/wp-login.php 3 -
+/apple-touch-icon-precomposed.png 16 -
+/apple-touch-icon.png 16 -
+/administrator/index.php 3 -
+/xmlrpc.php 1 -
+/wp-admin 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 40
+72.193.172.76 92 451 3650605 20170228220232
+169.149.133.18 46 197 1529790 20170223145823
+169.149.131.12 23 75 713330 20170221114544
+103.59.156.16 11 11 48373 20170228130101
+104.130.124.209 4 4 4457 20170227082615
+104.148.118.51 3 3 10809 20170221221149
+124.206.180.130 3 3 13197 20170223083228
+38.99.82.191 2 6 234202 20170228213657
+50.117.89.222 2 2 3926 20170221023109
+218.241.108.76 2 2 8822 20170222022244
+69.4.39.174 2 3 286690 20170226150928
+149.202.175.151 2 4 410860 20170228163932
+69.58.178.59 2 2 7977 20170226065105
+66.102.7.202 1 1 1115 20170222220838
+216.55.182.90 1 1 4399 20170221203616
+140.205.201.19 1 1 1115 20170226230820
+45.56.116.155 1 1 1113 20170227175106
+54.152.52.238 1 3 117100 20170223200205
+184.168.224.190 1 1 945 20170220160553
+54.81.176.23 1 1 4399 20170222014852
+139.162.163.183 1 1 1112 20170221230511
+66.102.7.204 1 1 1116 20170221214528
+206.225.80.193 1 1 0 20170221203619
+66.249.83.87 1 1 1113 20170221201822
+54.225.15.77 1 1 1113 20170221112344
+66.102.8.140 0 1 19748 
+159.203.160.162 1 1 1114 20170222191000
+61.154.29.251 1 1 4421 20170226153859
+158.69.229.134 1 1 1963 20170220233846
+40.121.160.19 1 1 945 20170220235943
+54.221.21.120 1 1 1112 20170225200410
+66.102.8.142 1 2 97351 20170221203625
+45.35.167.73 1 1 945 20170221092028
+167.114.228.206 1 1 4423 20170221201932
+109.163.234.4 1 1 4397 20170227212341
+199.30.228.148 1 1 945 20170221035629
+184.168.224.230 1 1 1111 20170221160806
+140.205.201.12 1 3 117102 20170226230823
+178.137.83.79 1 1 4397 20170227140737
+104.238.248.15 1 1 1963 20170221030016
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20170220 4 4 4798 4
+20170221 55 161 1405403 19
+20170222 8 8 28647 8
+20170223 98 459 3686178 6
+20170224 14 64 548786 4
+20170225 3 3 9906 3
+20170226 8 11 421702 6
+20170227 16 65 554728 7
+20170228 14 20 659467 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 1
+30mn-1h 4
+15mn-30mn 1
+5mn-15mn 3
+1h+ 1
+0s-30s 54
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 94 193147 62 57
+/Accounts 30 67531 0 2
+/Users 21 46615 0 0
+/Profile 19 46753 0 1
+/vendors/bootstrap/dist/fonts/glyphicons-halflings-regular.woff 8 185104 0 0
+/vendors/font-awesome/fonts/fontawesome-webfont.woff 7 632191 0 1
+/Add-Account 6 15076 0 0
+/Account/3 5 12869 0 0
+/Add-User 5 11963 0 0
+/vendors/font-awesome/fonts/fontawesome-webfont.woff2 4 287572 0 0
+/User/1 4 9608 0 0
+/vendors/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 4 72120 0 0
+/cpanel 3 7852 2 0
+/password/reset 3 8130 0 3
+/vendors/bootstrap/dist/css/bootstrap.min.css.map 2 203110 0 0
+/vendors/parsleyjs/dist/parsley.min.js.map 2 117076 0 0
+/account/activation/27867f6041ec322d55a63d1da85e6a98cc0b8cda9ef033b583ed9bd8111ed5e4 1 1306 0 0
+/Account/2 1 2539 0 0
+/UpdateProfile 1 2460 0 0
+END_SIDER

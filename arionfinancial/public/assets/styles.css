@@ -1,0 +1,242 @@
+.help-block strong{
+	color: red;
+}
+.dcmt{
+  padding-left: 20px;
+  padding-right: 20px
+}
+.dcmt hr{
+  width: 100%;
+  border-top: 3px solid #d2d2d2;
+  margin: 0px;
+}
+.dcmt .help-block{
+  color: red;
+}
+
+/*View Accounts*/
+.view-infor{
+	width:100%;
+	overflow: hidden;
+	border: 1px solid #999;
+	border-radius: 4px;
+}
+.view-infor h4{
+	width: 100%;
+	display: inline-block;
+	margin: 0;
+	padding: 15px 25px;
+	color: #fff;
+	font-size: 28px;
+	font-weight: 700;
+	background: #333;
+	text-transform: uppercase;
+}
+.mid-inf{
+	width: 100%;
+	overflow: hidden;
+	padding: 30px 50px 15px;
+}
+.mid-inf-part{
+	width: 50%;
+	float: left;
+}
+.mid-inf-part h3{
+	display: inline-block;
+	width: 100%;
+	padding: 10px 0 15px;
+	margin: 0;
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.calcu-wrap{
+	width: 100%;
+	float: left;
+}
+.calcu-wrap-part{
+	float: left;
+	width: 50%;
+}
+.calcu-wrap-part h2{
+	font-size: 36px;
+	color: #333;
+	font-weight: 700;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.calcu-wrap-part p{
+	font-size: 16px;
+	color: #999;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.link-view{
+	width: 100%;
+	overflow: hidden;
+	margin: 30px 0;
+	float: left;
+	text-align: center;
+}
+.link-view p{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.link-view .btn-view{
+	display: inline-block;
+	text-align: center;
+	width: 55%;
+	border-radius: 4px;
+	background: #699;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 48px;
+	color: #fff;
+}
+.link-view .view-state{
+	display: inline-block;
+	font-size: 18px;
+	color: #66cccc;
+	margin-top: 25px;
+}
+.mid-inf-left{
+	border-right: 1px solid #ccc;
+}
+.inf-text{
+	width: 100%;
+	float: left;
+	margin-bottom: 35px;
+}
+.inf-text p{
+	width: 50%;
+	float: right;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	color: #666666;
+	padding-left: 15px;
+}
+.inf-text p i > img{
+	width: 25px;
+	height: 18px;
+	margin: 5px
+}
+.footer-inf{
+	width: 100%;
+	float: left;
+	padding: 10px 35px;
+	border:1px solid #ccc;
+	border-right: 0;
+	border-left: 0;
+}
+.footer-inf .acc-details{
+	display: inline-block;
+	float: left;
+	font-size: 18px;
+	color: #66cccc;
+}
+.footer-inf .state{
+	display: inline-block;
+	float: right;
+	color: #66cccc;
+	font-size: 18px;
+}
+.foot-text{
+	width: 100%;
+	float: left;
+	margin: 0;
+	margin-top: 15px;
+}
+.side-menu li a > i.icon{
+	width: 21px;
+	height: 21px;
+	display: inline-block;
+	margin-right: 15px;
+}
+.side-menu li a > i.icon >img{
+	max-width: 100%;
+}
+
+.nav-sm .nav.side-menu li a i.icon{
+	display: inline-block;
+	height: auto;
+}
+.nav-sm .nav.side-menu li a i.icon >img{
+	max-width: 55%;
+}
+
+/*.side-menu li a > i.ic-payment{
+	width: 40px;
+}*/
+
+/*reset*/
+#reset-password #login-form-wrap h4{
+	font-size: 24px;
+	font-weight: 600;
+	display: inline-block;
+	width: 100%;
+	margin: 17px 0;
+}
+#reset-password #login-form-wrap .form-row-first{
+	width: 100%;
+	display: inline-block;
+	overflow: hidden;
+}
+#reset-password #login-form-wrap .form-row-first label{
+	width: 25%;
+	float: left;
+	line-height: 35px;
+}
+#reset-password #login-form-wrap .form-row-first input#username{
+	width: 75%;
+	float: left;
+	border: 1px solid #ccd0d2;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+#reset-password .wrap-sub-reset input{
+	background: #657784;
+    line-height: 32px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 165px;
+    color: #fff;
+    font-weight: 600;
+}
+#reset-password .wrap-sub-reset a{
+	display: inline-block;
+	background: #fff;
+    line-height: 32px;
+    border: 2px solid #00cccc;
+    border-radius: 4px;
+    width: 165px;
+    color: #00cccc;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+}
+#reset-password .wrap-sub-reset input:hover{
+	display: inline-block;
+	background: #fff;
+    line-height: 32px;
+    border: 2px solid #00cccc;
+    border-radius: 4px;
+    width: 165px;
+    color: #00cccc;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+}
+#reset-password .wrap-sub-reset a:hover{
+	background: #657784;
+    line-height: 32px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 165px;
+    color: #fff;
+    font-weight: 600;
+}

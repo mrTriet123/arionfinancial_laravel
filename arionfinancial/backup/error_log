@@ -1,0 +1,17 @@
+[28-Mar-2017 07:52:58 UTC] PHP Warning:  require(/home/arianleasing/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/arianleasing/public_html/index.php on line 22
+[28-Mar-2017 07:52:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/arianleasing/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/arianleasing/public_html/index.php on line 22
+[28-Mar-2017 07:53:33 UTC] PHP Warning:  require(/home/arianleasing/public_html../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/arianleasing/public_html/index.php on line 22
+[28-Mar-2017 07:53:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/arianleasing/public_html../bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/arianleasing/public_html/index.php on line 22
+[28-Mar-2017 07:55:11 UTC] PHP Warning:  require(/home/arianleasing/public_html../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/arianleasing/public_html/index.php on line 22
+[28-Mar-2017 07:55:11 UTC] PHP Fatal error:  require(): Failed opening required '/home/arianleasing/public_html../bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/arianleasing/public_html/index.php on line 22
+[28-Mar-2017 07:55:29 UTC] PHP Warning:  require(/home/arianleasing/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/arianleasing/public_html/index.php on line 22
+[28-Mar-2017 07:55:29 UTC] PHP Fatal error:  require(): Failed opening required '/home/arianleasing/public_html/../bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/arianleasing/public_html/index.php on line 22
+[04-Apr-2017 04:17:29 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Account\public_html() in /home/arianleasing/app/Http/Controllers/Account/ProfileController.php on line 39
+[04-Apr-2017 04:24:24 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/arianleasing/app/Http/Controllers/Account/ProfileController.php on line 38
+[04-Apr-2017 04:28:21 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on boolean in /home/arianleasing/app/Http/Controllers/Account/ProfileController.php on line 39
+[04-Apr-2017 07:20:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/arianleasing/app/Http/Controllers/User/UserController.php on line 127
+[04-Apr-2017 07:25:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/arianleasing/app/Http/Controllers/User/UserController.php on line 128
+[04-Apr-2017 07:26:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/arianleasing/app/Http/Controllers/User/UserController.php on line 128
+[04-Apr-2017 07:27:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/arianleasing/app/Http/Controllers/User/UserController.php on line 132
+[04-Apr-2017 07:28:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/arianleasing/app/Http/Controllers/User/UserController.php on line 128
+[04-Apr-2017 07:28:59 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /home/arianleasing/app/Http/Controllers/User/UserController.php on line 121

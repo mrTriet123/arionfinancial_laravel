@@ -1,0 +1,20 @@
+[03-Jun-2017 13:20:32 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/arianleasing/public_html/app/Http/Controllers/User/UserController.php on line 4
+[03-Jun-2017 13:22:35 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User\Users' not found in /home/arianleasing/public_html/app/Http/Controllers/User/UserController.php on line 134
+[03-Jun-2017 13:24:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User\User' not found in /home/arianleasing/public_html/app/Http/Controllers/User/UserController.php on line 134
+[03-Jun-2017 14:21:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User\Redirect' not found in /home/arianleasing/public_html/app/Http/Controllers/User/UserController.php on line 151
+[03-Jun-2017 14:21:35 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User\Redirect' not found in /home/arianleasing/public_html/app/Http/Controllers/User/UserController.php on line 151
+[03-Jun-2017 15:57:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User\Redirect' not found in /home/arianleasing/public_html/app/Http/Controllers/User/UserController.php on line 151
+[04-Jun-2017 10:44:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/arianleasing/public_html/app/Http/routes.php on line 282
+[05-Jun-2017 17:26:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/arianleasing/public_html/app/Http/Controllers/User/UserController.php on line 173
+[05-Jun-2017 18:20:33 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/arianleasing/public_html/storage/framework/views/0a7b9877a2890b77aab986ff897a8841747a479b.php on line 38
+[05-Jun-2017 18:20:54 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/arianleasing/public_html/storage/framework/views/0a7b9877a2890b77aab986ff897a8841747a479b.php on line 44
+[05-Jun-2017 18:20:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/arianleasing/public_html/storage/framework/views/0a7b9877a2890b77aab986ff897a8841747a479b.php on line 44
+[07-Jun-2017 19:07:57 UTC] PHP Warning:  include(/home/arianleasing/public_html/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/arianleasing/public_html/vendor/composer/ClassLoader.php on line 444
+[07-Jun-2017 19:07:57 UTC] PHP Warning:  include(): Failed opening '/home/arianleasing/public_html/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/arianleasing/public_html/vendor/composer/ClassLoader.php on line 444
+[07-Jun-2017 19:07:57 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Http\Kernel does not exist' in /home/arianleasing/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:734
+Stack trace:
+#0 /home/arianleasing/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(734): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/arianleasing/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('App\\Http\\Kernel', Array)
+#2 /home/arianleasing/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Http\\Kernel', Array)
+#3 /home/arianleasing/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Http\\Kernel', Array)
+#4 /home/arianleasing/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(731): Illuminate\Container\Container->Illuminate\C in /home/arianleasing/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 734
